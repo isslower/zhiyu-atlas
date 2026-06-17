@@ -1,0 +1,15 @@
+{
+  "name": "zhiyu-atlas",
+  "private": true,
+  "version": "0.1.0",
+  "description": "知域图谱：全国行政区划树形下钻与高德地图边界联动",
+  "scripts": {
+    "install:all": "npm install --prefix client",
+    "split": "node scripts/split-divisions.mjs",
+    "dev:client": "npm run dev --prefix client",
+    "start": "node serve.mjs",
+    "serve": "node serve.mjs",
+    "build": "npm run build --prefix client",
+    "docx": "node scripts/generate-linkage-docx.mjs"
+  }
+}

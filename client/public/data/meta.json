@@ -1,0 +1,1 @@
+{"total":665688,"parents":44729,"searchShards":4334,"generatedAt":"2026-06-16T23:46:37.925Z","source":"china-division/dist","notes":["大陆数据来自 china-division 的 provinces/cities/areas/streets/villages。","香港、澳门、台湾来自 HK-MO-TW.json，源数据覆盖到市/区县层级，不包含街道和村级。"]}

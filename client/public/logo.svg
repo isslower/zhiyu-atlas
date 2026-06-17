@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">知域图谱 Logo</title>
+  <desc id="desc">A teal and blue map atlas mark for Zhiyu Atlas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="18" y1="16" x2="110" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="sheet" x1="38" y1="28" x2="92" y2="98" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0F7FF"/>
+      <stop offset="1" stop-color="#BFF4E8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <path d="M37 34l25-9 29 9v60l-25 10-29-10V34z" fill="url(#sheet)" opacity=".96"/>
+  <path d="M62 25v79M37 34l29 9 25-9M37 64l29 8 25-8M37 94l29-9 25 9" fill="none" stroke="#0F766E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".42"/>
+  <path d="M64 45c-11 0-20 9-20 20 0 16 20 35 20 35s20-19 20-35c0-11-9-20-20-20z" fill="#075985"/>
+  <circle cx="64" cy="65" r="8" fill="#FFFFFF"/>
+  <path d="M48 42h32L52 86h33" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

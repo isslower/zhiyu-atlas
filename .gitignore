@@ -1,0 +1,10 @@
+node_modules/
+client/node_modules/
+client/dist/
+.source-npm/
+.env
+.env.*
+!.env.example
+client/public/config.json
+*.log
+.DS_Store
